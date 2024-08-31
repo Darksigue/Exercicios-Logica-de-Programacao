@@ -6,7 +6,6 @@ int main(){
 
     ++x;
     z++;
-    printf("z=%i",z);
 
     y--;
 
